@@ -1,0 +1,12 @@
+html {
+    font-size: 62.5%;
+    font-family: "Manrope", sans-serif;
+    font-weight: 800;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
