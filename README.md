@@ -14,6 +14,7 @@ Desafio do Frontend Mentor desenvolvido durante o curso DevQuest, onde o objetiv
 - **HTML**
 - **CSS**
 - **JavaScript**
+-**API: [Advice Slip API](https://api.adviceslip.com/)**
 
 ## Demonstração
 
